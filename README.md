@@ -16,10 +16,11 @@ for decision making). This page deals with decision trees in data mining.
 
 # Dataset
 Classification Trees with Numerical Features (two datasets)
-• Iris: has three classes and the task is to accurately predict one of the three subtypes of
+* Iris: has three classes and the task is to accurately predict one of the three subtypes of
 the Iris flower given four different physical features. These features include the length
 and width of the sepals and the petals. There are a total of 150 instances with each
 class having 50 instances.
-• Spambase: is a binary classification task and the objective is to classify email
+
+* Spambase: is a binary classification task and the objective is to classify email
 messages as being spam or not. To this end the dataset uses seven text-based
 features to represent each email message. There are about 4600 instances.
